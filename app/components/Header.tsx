@@ -6,7 +6,7 @@ import { StyleSheet } from "react-native";
 export default function Header() {
     return(
         <ThemedView style={styles.titleContainer}>
-            <ThemedText type="subtitle" style={styles.title}>SignumGPT</ThemedText>
+            <ThemedText type="subtitle" style={styles.title}>CloneGPT</ThemedText>
         </ThemedView>
     )
 }
